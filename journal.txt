@@ -1,0 +1,25 @@
+--- 7 février 2023 ---
+
+première rencontre avec mon tuteur
+
+Code: 
+ - ajout fonction pour table currenxcies : get, delate , modify
+ - simplification vers 1 seul add (plus de multipleadd)
+ - print pour un element de currencies
+
+Documentation/Autre: 
+ - envoie CdC à cause d'erreur
+ - écriture reporting début projet
+
+Pour la prochaine fois : 
+ - commenter le code en lien avec la table currencies
+ - écrire les tests pour la table currencies
+
+--- 21  février 2023 ---
+
+Code:
+ - le code réalisé et revu lors de la précédente a été commenté et docummenté
+ - finalisation des autres fonctions pour la base donnée pour le stockage des données récupérer commentées et documentées
+ - creation des tables prévues pour accueillir des prédictions
+
+
