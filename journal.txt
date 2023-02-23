@@ -22,4 +22,9 @@ Code:
  - finalisation des autres fonctions pour la base donnée pour le stockage des données récupérer commentées et documentées
  - creation des tables prévues pour accueillir des prédictions
 
+--- 23  février 2023 ---
 
+Code:
+ - changement format de la Documentation
+ - nouvelle function d'affichage de stock chart plus simple et compréhensible
+ - début formation pytorch
