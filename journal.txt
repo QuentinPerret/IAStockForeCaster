@@ -28,3 +28,11 @@ Code:
  - changement format de la Documentation
  - nouvelle function d'affichage de stock chart plus simple et compréhensible
  - début formation pytorch
+
+--- 28 février 2023 --- 
+
+Autre:
+ - problème d'environnement avec pytorch sur mon ordinateur portable réglé: torch cherché une carte graphique or il n'y en avait pas , il fallait delete les packages puis réinstaller les versions cpu de torch
+
+Documentation:
+ - rédaction reporting 1 
