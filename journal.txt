@@ -36,3 +36,13 @@ Autre:
 
 Documentation:
  - rédaction reporting 1 
+
+--- 8 mars 2023 ---
+
+Code : 
+ - ajustement des types dans la table currencies_metadata pour plus de cohérence 
+ - début de l'écriture de test pour la bdd : 
+    ~ test general sur l'existence 
+    ~ structure de la table currencies_metadata 
+    ~ method get pour la table 
+La piste de l'utilisation de unittest a était exploré mais n'était pas adapté pour les tests a réalisé sur la bdd
