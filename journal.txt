@@ -46,3 +46,11 @@ Code :
     ~ structure de la table currencies_metadata 
     ~ method get pour la table 
 La piste de l'utilisation de unittest a était exploré mais n'était pas adapté pour les tests a réalisé sur la bdd
+
+--- 13 Mars ---
+
+Code : 
+ - formation pytorch : difficulté sur la préparation des données ~> erreur sur la taille des matrices passées dans le nn
+ - avancé : le réseau de neurone à lancer un appretissage , reste à afficher les résultats pour s'assurer de la convergence vers la solution souhaité
+ - formation compléter suite à appliquer sur le cas d'étude
+ - la formation a amené a préparer les données pour les utilisé en entré d'un réseau de neurone, créer un nn , l'entrainer , manipuler les hyperparamètres 
