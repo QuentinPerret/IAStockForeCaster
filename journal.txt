@@ -36,6 +36,7 @@ Autre:
 
 Documentation:
  - rédaction reporting 1 
+ - début modification CdC
 
 --- 8 mars 2023 ---
 
@@ -54,3 +55,6 @@ Code :
  - avancé : le réseau de neurone à lancer un appretissage , reste à afficher les résultats pour s'assurer de la convergence vers la solution souhaité
  - formation compléter suite à appliquer sur le cas d'étude
  - la formation a amené a préparer les données pour les utilisé en entré d'un réseau de neurone, créer un nn , l'entrainer , manipuler les hyperparamètres 
+
+Documentation : 
+ - red&ction et envoie Reporting n°2
