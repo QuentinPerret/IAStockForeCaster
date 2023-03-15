@@ -57,4 +57,10 @@ Code :
  - la formation a amené a préparer les données pour les utilisé en entré d'un réseau de neurone, créer un nn , l'entrainer , manipuler les hyperparamètres 
 
 Documentation : 
- - red&ction et envoie Reporting n°2
+ - redaction et envoie Reporting n°2
+
+--- 15 Mars ---
+
+Code :
+ - début implémentation nn , préparation des hyperparamètres et des données 
+ - suite necessite meilleur définition et implémentation les différents set de test, vérification et apprentissage 
