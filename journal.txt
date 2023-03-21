@@ -64,3 +64,22 @@ Documentation :
 Code :
  - début implémentation nn , préparation des hyperparamètres et des données 
  - suite necessite meilleur définition et implémentation les différents set de test, vérification et apprentissage 
+
+ --- 17 Mars ---
+
+Code : 
+ - recherche sur les modèle IA de timeseries and sur le splitting
+
+Documentation :
+ - rendu du point intermédiaire
+
+--- 20 Mars ---
+
+Code : 
+ - Mise en pace du splitting pour les timeseries : problèmes sur la gestion du nombre d'entré dans le nn recontré
+
+--- 21 Mars --- 
+
+Code : 
+ - recherche sur les applications d'un nn sur des timeseries
+ - changement de structure général du code pour avoir la batabase dans un notebook et le nn dans un autre
