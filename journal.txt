@@ -83,3 +83,15 @@ Code :
 Code : 
  - recherche sur les applications d'un nn sur des timeseries
  - changement de structure général du code pour avoir la batabase dans un notebook et le nn dans un autre
+
+--- 22 au 27 Mars ---
+
+Code :
+ - recherche sur les timeseries : tentative pour prédire 10 valeurs : echec loss : nan après la première step d'epoch 
+
+--- 28 Mars ---
+
+Code : 
+ - mise en place d'un nn avec LSTM : compilation réussi 
+ - il faut maintenant entrainer le model et reguarder les forcast réalisé 
+  
