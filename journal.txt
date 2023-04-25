@@ -94,4 +94,10 @@ Code :
 Code : 
  - mise en place d'un nn avec LSTM : compilation réussi 
  - il faut maintenant entrainer le model et reguarder les forcast réalisé 
-  
+
+--- 24 Avril ---
+
+ - Finalisation programme + nouveau Final_Script pour rendre la correction plus facile
+ - rédaction rapport
+
+Rendu du projet 
